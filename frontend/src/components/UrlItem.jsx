@@ -72,9 +72,9 @@ function UrlItem({ url, idx, filterUrlHandler }) {
           >
             Delete
           </Button>
-          <Button variant="info" size="sm" className="m-2">
+          {/*<Button variant="info" size="sm" className="m-2">
             Edit
-          </Button>
+  </Button>*/}
         </div>
       </td>
     </tr>
